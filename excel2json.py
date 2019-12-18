@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 30
+Created on Fri Nov 30 2019
 
-author: tilseb@dtu.dk
+author: till@energymodelling.club
 
 TODO: encoding for messy=False not working
 """
