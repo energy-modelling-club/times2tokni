@@ -4,7 +4,7 @@ Created on Fri Nov 30
 
 author: tilseb@dtu.dk
 
-TODO: encoding for messy=False not working!
+TODO: encoding for messy=False not working
 """
 
 # import required packages
@@ -318,7 +318,3 @@ def run_script(file_path):
 # run script for each input data file
 for file_path in path_list:
     run_script(file_path)
-
-
-# end
-# -----------------------------------------------------------------------------
