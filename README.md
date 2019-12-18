@@ -1,8 +1,5 @@
 # excel2json
 
-## Description
-The excel2json.py converts the data from the data4json.xlsx file into a json file that can be pushed to tokni's github repository.
-
 ## Requirements
 - python 3.6
 - pandas
