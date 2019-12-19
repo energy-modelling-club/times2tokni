@@ -1,4 +1,4 @@
-# excel2json
+# times2tokni
 
 ## Requirements
 - python 3.6
